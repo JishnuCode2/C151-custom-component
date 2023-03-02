@@ -1,1 +1,1 @@
-# C151-custom-component
+# PRO-C151-Student-Activity
